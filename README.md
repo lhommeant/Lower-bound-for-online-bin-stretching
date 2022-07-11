@@ -11,4 +11,5 @@ Warning: The second one may require too much memory to prove a difficult bound. 
 To compile, one just need to execute the "compile.sh".
 It will results it an executable file "bound_finder". 
 Options are listed with -h.
-Default usage: ./bound_finder -p 3 14 19
+
+Example of usage to prove the bound 19/14 for 3 bins: ./bound_finder -p 3 14 19
